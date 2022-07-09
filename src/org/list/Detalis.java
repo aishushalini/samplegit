@@ -19,7 +19,7 @@ public class Detalis {
 		li.add(45678.45678);
 		li.add('M');
 		li.add(10);
-		li.add(10);
+		li.add(20);
 		
 		
 		//print all the value list
